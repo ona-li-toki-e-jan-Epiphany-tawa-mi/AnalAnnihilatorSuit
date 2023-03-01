@@ -1,0 +1,7 @@
+#line 1 "/home/stariki/Proyekty/PROGRAMMY/AnalAnnihilatorSuit/.vscode/arduino.json"
+{
+    "sketch": "AnalAnnihilatorSuit.ino",
+    "output": "build",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega"
+}
